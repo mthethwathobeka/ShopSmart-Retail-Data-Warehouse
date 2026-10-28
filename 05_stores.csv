@@ -1,0 +1,11 @@
+Store_Code,Store_Name,City,Province,Region,Store_Type
+S001,ShopSmart Durban,Durban,KwaZulu-Natal,East,Mall
+S002,ShopSmart Umhlanga,Umhlanga,KwaZulu-Natal,East,Mall
+S003,ShopSmart Pietermaritzburg,Pietermaritzburg,KwaZulu-Natal,East,High Street
+S004,ShopSmart Johannesburg,Johannesburg,Gauteng,North,Mall
+S005,ShopSmart Sandton,Johannesburg,Gauteng,North,Flagship
+S006,ShopSmart Pretoria,Pretoria,Gauteng,North,Mall
+S007,ShopSmart Cape Town,Cape Town,Western Cape,West,Flagship
+S008,ShopSmart Bellville,Bellville,Western Cape,West,High Street
+S009,ShopSmart Bloemfontein,Bloemfontein,Free State,Central,Mall
+S010,ShopSmart Gqeberha,Gqeberha,Eastern Cape,South,Mall

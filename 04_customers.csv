@@ -1,0 +1,601 @@
+Customer_ID,First_Name,Last_Name,Gender,City,Province,Customer_Segment,Loyalty_Tier,Registration_Date
+C0001,Sibusiso,Mensah,Male,Durban,KwaZulu-Natal,Family,Bronze,2025-07-29
+C0002,Aisha,Mensah,Female,Pretoria,Gauteng,Individual,Bronze,2024-02-10
+C0003,Nomsa,Jacobs,Male,Cape Town,Western Cape,Family,Silver,2024-12-19
+C0004,Michael,Mokoena,Female,Mbombela,Mpumalanga,Family,Bronze,2025-07-02
+C0005,Daniel,Ndlovu,Male,Bloemfontein,Free State,Family,Bronze,2024-08-22
+C0006,Emeka,Jacobs,Male,Polokwane,Limpopo,Student,Silver,2024-01-16
+C0007,Ayanda,Williams,Male,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2025-09-22
+C0008,Chidinma,Smith,Male,Bellville,Western Cape,Student,Silver,2024-12-16
+C0009,Nomsa,Williams,Male,Pretoria,Gauteng,Individual,Bronze,2024-06-16
+C0010,Lerato,Mkhize,Male,Gqeberha,Eastern Cape,Individual,Bronze,2024-07-30
+C0011,Sipho,Okafor,Male,Umhlanga,KwaZulu-Natal,Student,Bronze,2024-08-25
+C0012,Ayanda,Okafor,Male,Bloemfontein,Free State,Business,Silver,2025-11-04
+C0013,Sibusiso,Adebayo,Female,Gqeberha,Eastern Cape,Individual,Platinum,2024-07-03
+C0014,Mandla,Mensah,Male,Mbombela,Mpumalanga,Family,Bronze,2025-06-29
+C0015,Tunde,Jacobs,Female,Cape Town,Western Cape,Individual,Bronze,2024-11-08
+C0016,Michael,Adebayo,Male,Bellville,Western Cape,Individual,Bronze,2025-09-23
+C0017,Precious,Mkhize,Female,Umhlanga,KwaZulu-Natal,Individual,Silver,2025-01-17
+C0018,Thabo,Daniels,Male,Bloemfontein,Free State,Family,Gold,2024-05-03
+C0019,Samuel,Mkhize,Male,Durban,KwaZulu-Natal,Family,Bronze,2024-08-04
+C0020,Tunde,Dlamini,Male,Johannesburg,Gauteng,Individual,Silver,2025-03-15
+C0021,Lerato,Smith,Male,Umhlanga,KwaZulu-Natal,Student,Bronze,2025-07-04
+C0022,Sibusiso,Okafor,Male,Johannesburg,Gauteng,Individual,Bronze,2024-01-30
+C0023,Fatima,Daniels,Female,Gqeberha,Eastern Cape,Student,Bronze,2024-05-02
+C0024,Precious,Okafor,Male,Cape Town,Western Cape,Student,Gold,2025-02-15
+C0025,Nomsa,Naidoo,Female,Polokwane,Limpopo,Individual,Bronze,2025-03-04
+C0026,Naledi,Molefe,Female,Cape Town,Western Cape,Student,Platinum,2025-02-17
+C0027,Fatima,Dlamini,Male,Polokwane,Limpopo,Individual,Gold,2024-02-15
+C0028,Lerato,Brown,Female,Mbombela,Mpumalanga,Individual,Silver,2024-02-27
+C0029,Nomsa,Mkhize,Male,Johannesburg,Gauteng,Business,Silver,2025-01-14
+C0030,Grace,Khumalo,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2024-11-27
+C0031,Zanele,Van Wyk,Male,Bellville,Western Cape,Individual,Bronze,2024-07-18
+C0032,Sipho,Khumalo,Male,Bloemfontein,Free State,Family,Gold,2024-01-16
+C0033,Lerato,Mensah,Male,Durban,KwaZulu-Natal,Student,Silver,2024-08-08
+C0034,Precious,Ndlovu,Female,Cape Town,Western Cape,Family,Bronze,2024-03-17
+C0035,Sarah,Pillay,Male,Cape Town,Western Cape,Family,Silver,2025-10-19
+C0036,Zanele,Brown,Female,Durban,KwaZulu-Natal,Student,Gold,2025-06-22
+C0037,Sibusiso,Khumalo,Female,Pretoria,Gauteng,Student,Bronze,2024-04-08
+C0038,Tunde,Mensah,Female,Polokwane,Limpopo,Individual,Gold,2025-01-23
+C0039,Ayanda,Pillay,Male,Pretoria,Gauteng,Family,Bronze,2024-05-21
+C0040,Lerato,Daniels,Male,Mbombela,Mpumalanga,Individual,Silver,2025-10-29
+C0041,Fatima,Smith,Male,Durban,KwaZulu-Natal,Individual,Platinum,2024-05-06
+C0042,SAMUEL,Okafor,Male,Bloemfontein,Free State,Student,Bronze,2024-04-25
+C0043,Lerato,Adebayo,Male,Umhlanga,KwaZulu-Natal,Business,Gold,2024-03-04
+C0044,Sipho,Govender,Male,Umhlanga,KwaZulu-Natal,Family,Gold,2025-06-08
+C0045,David,Naidoo,Male,Gqeberha,Eastern Cape,Individual,Bronze,2024-01-16
+C0046,Samuel,Govender,Male,Durban,KwaZulu-Natal,Family,Bronze,2025-06-24
+C0047,Esther,Daniels,Female,Gqeberha,Eastern Cape,Student,Silver,2024-09-22
+C0048,Sibusiso,Pillay,Female,Polokwane,Limpopo,Business,Bronze,2024-07-02
+C0049,Precious,Van Wyk,Male,Cape Town,Western Cape,Student,Gold,2025-09-16
+C0050,Aisha,Jacobs,Female,Bellville,Western Cape,Student,Silver,2024-04-17
+C0051,Sipho,Mokoena,Male,Bellville,Western Cape,Family,Bronze,2024-07-15
+C0052,Sipho,Mensah,Female,Johannesburg,Gauteng,Family,Platinum,2024-08-05
+C0053,Ayanda,Williams,Male,Umhlanga,KwaZulu-Natal,Individual,Bronze,2025-10-16
+C0054,Naledi,Jacobs,Female,Pietermaritzburg,KwaZulu-Natal,Student,Bronze,2024-01-10
+C0055,Grace,Jacobs,Male,Gqeberha,Eastern Cape,Family,Bronze,2024-07-26
+C0056,Aisha,Mensah,Male,Pretoria,Gauteng,Family,Silver,2024-12-20
+C0057,Ayanda,Van Wyk,Male,Umhlanga,KwaZulu-Natal,Student,Gold,2024-01-18
+C0058,Fatima,Mensah,Female,Pietermaritzburg,KwaZulu-Natal,Family,Bronze,2025-05-15
+C0059,Nandi,Govender,Female,Johannesburg,Gauteng,Student,Gold,2024-02-26
+C0060,Mandla,Van Wyk,Female,Bloemfontein,Free State,Individual,Silver,2024-10-05
+C0061,Sibusiso,Dlamini,Female,Umhlanga,KwaZulu-Natal,Family,Platinum,2024-12-30
+C0062,Sibusiso,Dlamini,Female,Durban,KwaZulu-Natal,Business,Bronze,2024-07-19
+C0063,Ayanda,Van Wyk,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Silver,2025-08-11
+C0064,Grace,Molefe,Male,Bloemfontein,Free State,Student,Bronze,2024-03-15
+C0065,NOMSA,Nkosi,Male,Mbombela,Mpumalanga,Business,Silver,2024-05-07
+C0066,Grace,Dlamini,Male,Soweto,Gauteng,Family,Silver,2025-10-15
+C0067,Esther,Mthembu,Female,Durban,KwaZulu-Natal,Family,Bronze,2025-04-09
+C0068,Naledi,Dlamini,Male,Soweto,Gauteng,Family,Gold,2024-03-17
+C0069,Aisha,Mkhize,Male,Polokwane,Limpopo,Student,Silver,2025-06-19
+C0070,Naledi,Mensah,Male,Cape Town,Western Cape,Family,Silver,2025-02-28
+C0071,Precious,Ndlovu,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2025-10-10
+C0072,Thabo,Ndlovu,Female,Mbombela,Mpumalanga,Family,Gold,2024-10-25
+C0073,Esther,Mkhize,Male,Pretoria,Gauteng,Individual,Bronze,2024-07-07
+C0074,Tunde,Naidoo,Male,Cape Town,Western Cape,Family,Gold,2024-06-14
+C0075,Sarah,Mkhize,Female,Johannesburg,Gauteng,Student,Bronze,2024-11-28
+C0076,Naledi,Jacobs,Male,Johannesburg,Gauteng,Student,Gold,2025-02-20
+C0077,Thabo,Pillay,Female,Cape Town,Western Cape,Individual,Bronze,2025-10-02
+C0078,Sibusiso,Nkosi,Female,Pretoria,Gauteng,Student,Bronze,2025-10-06
+C0079,Emeka,Adebayo,Female,Cape Town,Western Cape,Student,Bronze,2025-01-13
+C0080,Thabo,Naidoo,Male,Pretoria,Gauteng,Student,Bronze,2024-01-15
+C0081,Samuel,Van Wyk,Male,Durban,KwaZulu-Natal,Student,Silver,2024-12-27
+C0082,Chidinma,Molefe,Female,Soweto,Gauteng,Individual,Bronze,2025-04-21
+C0083,Esther,Govender,Male,Bloemfontein,Free State,Individual,Gold,2025-07-08
+C0084,David,Daniels,Female,Johannesburg,Gauteng,Student,Bronze,2025-08-18
+C0085,Lerato,Molefe,Male,Durban,KwaZulu-Natal,Student,Bronze,2025-03-25
+C0086,Naledi,Molefe,Female,Umhlanga,KwaZulu-Natal,Individual,Bronze,2025-02-03
+C0087,Chidinma,Smith,Male,Polokwane,Limpopo,Individual,Silver,2025-09-17
+C0088,Fatima,Jacobs,Female,Bloemfontein,Free State,Family,Bronze,2024-03-12
+C0089,Aisha,Molefe,Female,Soweto,Gauteng,Business,Bronze,2025-08-08
+C0090,Tunde,Jacobs,Male,Bloemfontein,Free State,Business,Platinum,2025-08-13
+C0091,Mandla,Molefe,Female,Polokwane,Limpopo,Family,Gold,2025-03-15
+C0092,Aisha,Ndlovu,Female,Gqeberha,Eastern Cape,Family,Bronze,2025-03-25
+C0093,David,Mensah,Female,Durban,KwaZulu-Natal,Individual,Silver,2025-11-07
+C0094,Nandi,Pillay,Female,Cape Town,Western Cape,Individual,Bronze,2025-08-23
+C0095,Michael,Khumalo,Male,Bellville,Western Cape,Individual,Bronze,2024-02-12
+C0096,Daniel,Okafor,Male,Mbombela,Mpumalanga,Individual,Bronze,2024-04-07
+C0097,Aisha,Nkosi,Female,Pretoria,Gauteng,Student,Bronze,2024-12-19
+C0098,Sipho,Mkhize,Female,Polokwane,Limpopo,Individual,Bronze,2024-09-13
+C0099,Precious,Pillay,Male,Pietermaritzburg,KwaZulu-Natal,Family,Bronze,2025-07-08
+C0100,Lerato,Mkhize,Male,Bellville,Western Cape,Business,Silver,2025-10-26
+C0101,Michael,Molefe,Male,Polokwane,Limpopo,Individual,Silver,2025-11-03
+C0102,Tunde,Brown,Female,Bellville,Western Cape,Family,Gold,2025-08-16
+C0103,Precious,Mthembu,Male,Polokwane,Limpopo,Individual,Silver,2024-02-20
+C0104,Nomsa,Molefe,Male,Johannesburg,Gauteng,Family,Bronze,2024-07-20
+C0105,Tunde,Adebayo,Male,Bellville,Western Cape,Family,Gold,2025-10-05
+C0106,Grace,Mkhize,Female,Umhlanga,KwaZulu-Natal,Individual,Bronze,2024-04-02
+C0107,Ayanda,Khumalo,Female,Polokwane,Limpopo,Family,Bronze,2025-01-01
+C0108,Michael,Govender,Female,Mbombela,Mpumalanga,Student,Platinum,2025-10-17
+C0109,Grace,Khumalo,Female,Pietermaritzburg,KwaZulu-Natal,Family,Silver,2024-11-07
+C0110,Michael,Van Wyk,Female,Johannesburg,Gauteng,Family,Platinum,2025-07-01
+C0111,Daniel,Okafor,Male,Polokwane,Limpopo,Individual,Silver,2024-02-05
+C0112,Sibusiso,Khumalo,Female,Umhlanga,KwaZulu-Natal,Individual,Bronze,2024-03-07
+C0113,Precious,Van Wyk,Female,Soweto,Gauteng,Individual,Silver,2024-11-29
+C0114,Grace,Nkosi,Male,Pietermaritzburg,KwaZulu-Natal,Individual,Gold,2024-11-22
+C0115,Precious,Brown,Male,Mbombela,Mpumalanga,Family,Silver,2024-06-13
+C0116,Tunde,Pillay,Female,Umhlanga,KwaZulu-Natal,Business,Bronze,2025-02-23
+C0117,Esther,Smith,Female,Bloemfontein,Free State,Student,Bronze,2024-12-07
+C0118,ESTHER,Dlamini,Female,Johannesburg,Gauteng,Individual,Gold,2025-04-05
+C0119,David,Daniels,Male,Mbombela,Mpumalanga,Family,Bronze,2025-05-31
+C0120,Samuel,Brown,Male,Bellville,Western Cape,Family,Bronze,2025-09-20
+C0121,Naledi,Jacobs,Female,Cape Town,Western Cape,Individual,Bronze,2024-08-07
+C0122,Grace,Mensah,Male,Gqeberha,Eastern Cape,Student,Platinum,2024-04-20
+C0123,Sarah,Mkhize,Female,Pretoria,Gauteng,Individual,Bronze,2024-03-30
+C0124,Sarah,Mokoena,Female,Cape Town,Western Cape,Individual,Platinum,2025-05-25
+C0125,Aisha,Brown,Male,Mbombela,Mpumalanga,Family,Silver,2024-04-07
+C0126,Michael,Mthembu,Male,Gqeberha,Eastern Cape,Business,Silver,2024-09-20
+C0127,David,Daniels,Male,Gqeberha,Eastern Cape,Business,Bronze,2024-07-08
+C0128,Sipho,Molefe,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2025-08-18
+C0129,Zanele,Dlamini,Female,Pretoria,Gauteng,Individual,Silver,2025-01-16
+C0130,Kabelo,Pillay,Female,Bellville,Western Cape,Individual,Gold,2024-01-09
+C0131,Kabelo,Brown,Female,Pretoria,Gauteng,Individual,Silver,2024-08-08
+C0132,Sibusiso,Nkosi,Male,Bellville,Western Cape,Individual,Gold,2024-11-05
+C0133,Fatima,Mensah,Female,Durban,KwaZulu-Natal,Family,Bronze,2024-09-30
+C0134,Precious,Nkosi,Male,Polokwane,Limpopo,Family,Bronze,2025-11-28
+C0135,THABO,Mkhize,Male,Johannesburg,Gauteng,Family,Bronze,2025-04-11
+C0136,Chidinma,Mthembu,Male,Johannesburg,Gauteng,Family,Silver,2025-11-30
+C0137,Sarah,Naidoo,Male,Gqeberha,Eastern Cape,Student,Gold,2025-08-27
+C0138,Michael,Van Wyk,Male,Soweto,Gauteng,Student,Bronze,2024-01-21
+C0139,Chidinma,Govender,Male,Mbombela,Mpumalanga,Family,Bronze,2024-01-11
+C0140,Zanele,Jacobs,Male,Umhlanga,KwaZulu-Natal,Family,Bronze,2025-09-29
+C0141,Nandi,Daniels,Female,Polokwane,Limpopo,Student,Bronze,2025-07-27
+C0142,David,Pillay,Male,Umhlanga,KwaZulu-Natal,Family,Bronze,2025-02-28
+C0143,Nomsa,Jacobs,Male,Polokwane,Limpopo,Family,Bronze,2025-04-13
+C0144,Samuel,Dlamini,Female,Soweto,Gauteng,Business,Gold,2025-07-14
+C0145,Aisha,Williams,Female,Umhlanga,KwaZulu-Natal,Family,Gold,2024-11-08
+C0146,Thabo,Molefe,Male,Bellville,Western Cape,Student,Bronze,2024-01-29
+C0147,Esther,Williams,Female,Polokwane,Limpopo,Individual,Silver,2025-01-18
+C0148,Tunde,Mthembu,Male,Cape Town,Western Cape,Family,Bronze,2025-03-17
+C0149,Fatima,Adebayo,Female,Polokwane,Limpopo,Family,Bronze,2024-01-12
+C0150,Chidinma,Mensah,Female,Bellville,Western Cape,Family,Platinum,2024-07-08
+C0151,Esther,Daniels,Female,Pretoria,Gauteng,Individual,Bronze,2024-02-19
+C0152,Precious,Nkosi,Female,Pretoria,Gauteng,Student,Gold,2025-03-07
+C0153,Precious,Khumalo,Female,Gqeberha,Eastern Cape,Family,Bronze,2024-09-16
+C0154,Kabelo,Mokoena,Female,Bellville,Western Cape,Student,Platinum,2024-03-05
+C0155,Zanele,Okafor,Female,Johannesburg,Gauteng,Individual,Gold,2024-06-27
+C0156,Sibusiso,Smith,Female,Pretoria,Gauteng,Individual,Bronze,2025-03-21
+C0157,Grace,Mokoena,Male,Bloemfontein,Free State,Business,Bronze,2024-10-19
+C0158,Sipho,Mkhize,Female,Mbombela,Mpumalanga,Family,Silver,2025-02-08
+C0159,Sarah,Mensah,Female,  Johannesburg  ,Gauteng,Business,Bronze,2024-11-19
+C0160,Emeka,Okafor,Male,Bellville,Western Cape,Individual,Silver,2024-12-21
+C0161,Sipho,Jacobs,Female,Johannesburg,Gauteng,Student,Bronze,2025-10-25
+C0162,Tunde,Mkhize,Female,Pretoria,Gauteng,Individual,Bronze,2024-07-13
+C0163,Sarah,Mensah,Female,Bloemfontein,Free State,Individual,Silver,2025-11-11
+C0164,Esther,Mensah,Female,Soweto,Gauteng,Individual,Bronze,2024-10-15
+C0165,Tunde,Khumalo,Female,Pretoria,Gauteng,Individual,Bronze,2025-10-06
+C0166,Sibusiso,Mkhize,Male,Umhlanga,KwaZulu-Natal,Individual,Silver,2024-01-26
+C0167,Kabelo,Naidoo,Male,Mbombela,Mpumalanga,Student,Silver,2024-09-02
+C0168,Mandla,Pillay,Female,Mbombela,Mpumalanga,Family,Silver,2025-01-31
+C0169,Sibusiso,Daniels,Female,Bloemfontein,Free State,Family,Bronze,2024-06-21
+C0170,Nomsa,Pillay,Male,Pretoria,Gauteng,Individual,Bronze,2025-07-05
+C0171,Naledi,Ndlovu,Male,Pretoria,Gauteng,Individual,Bronze,2025-11-04
+C0172,Tunde,Mensah,Female,Pietermaritzburg,KwaZulu-Natal,Family,Gold,2024-12-24
+C0173,Lerato,Dlamini,Female,Bloemfontein,Free State,Business,Silver,2025-05-28
+C0174,Tunde,Mthembu,Female,Polokwane,Limpopo,Family,Bronze,2024-12-30
+C0175,Nomsa,Mokoena,Female,Gqeberha,Eastern Cape,Family,Silver,2024-01-30
+C0176,Sarah,Okafor,Female,Bellville,Western Cape,Student,Gold,2024-03-22
+C0177,Zanele,Dlamini,Female,Pretoria,Gauteng,Student,Bronze,2025-01-30
+C0178,Nomsa,Nkosi,Female,Cape Town,Western Cape,Student,Bronze,2024-08-21
+C0179,Sipho,Daniels,Male,Polokwane,Limpopo,Family,Bronze,2024-11-01
+C0180,Ayanda,Mthembu,Female,Gqeberha,Eastern Cape,Family,Bronze,2025-08-02
+C0181,Sipho,Mkhize,Female,Umhlanga,KwaZulu-Natal,Student,Silver,2025-04-12
+C0182,Chidinma,Govender,Male,Gqeberha,Eastern Cape,Individual,Platinum,2024-03-24
+C0183,Daniel,Brown,Female,Bellville,Western Cape,Business,Gold,2024-10-24
+C0184,Nandi,Daniels,Female,Cape Town,Western Cape,Family,Silver,2024-08-05
+C0185,Samuel,Govender,Male,Durban,KwaZulu-Natal,Individual,Silver,2024-08-21
+C0186,Mandla,Pillay,Male,Pretoria,Gauteng,Student,Silver,2024-01-08
+C0187,Zanele,Mkhize,Male,Pietermaritzburg,KwaZulu-Natal,Student,Bronze,2024-10-19
+C0188,Zanele,Mokoena,Female,Cape Town,Western Cape,Business,Silver,2025-08-08
+C0189,Tunde,Govender,Female,Bellville,Western Cape,Family,Platinum,2025-03-31
+C0190,Lerato,Mkhize,Female,Pretoria,Gauteng,Individual,Bronze,2024-04-09
+C0191,Tunde,Khumalo,Male,Umhlanga,KwaZulu-Natal,Student,Gold,2024-01-29
+C0192,Sibusiso,Daniels,Male,Polokwane,Limpopo,Individual,Bronze,2024-10-30
+C0193,Esther,Naidoo,Male,Bloemfontein,Free State,Student,Gold,2025-10-20
+C0194,Emeka,Mthembu,Male,Pretoria,Gauteng,Student,Bronze,2024-02-01
+C0195,Sipho,Dlamini,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Silver,2025-05-21
+C0196,Chidinma,Daniels,Female,Pretoria,Gauteng,Student,Bronze,2024-12-11
+C0197,Nomsa,Khumalo,Female,Mbombela,Mpumalanga,Family,Silver,2025-01-24
+C0198,Tunde,Brown,Female,Pretoria,Gauteng,Family,Gold,2025-03-30
+C0199,Michael,Nkosi,Male,Gqeberha,Eastern Cape,Student,Bronze,2025-06-04
+C0200,Esther,Smith,Female,Gqeberha,Eastern Cape,Individual,Gold,2025-01-12
+C0201,Thabo,Nkosi,Male,Johannesburg,Gauteng,Individual,Gold,2025-04-27
+C0202,Aisha,Van Wyk,Male,Gqeberha,Eastern Cape,Individual,Gold,2025-08-19
+C0203,Zanele,Okafor,Female,Bloemfontein,Free State,Individual,Gold,2024-09-25
+C0204,Sibusiso,Ndlovu,Female,Gqeberha,Eastern Cape,Individual,Silver,2024-08-26
+C0205,Emeka,Okafor,Female,Umhlanga,KwaZulu-Natal,Student,Bronze,2025-11-29
+C0206,Naledi,Molefe,Female,Soweto,Gauteng,Individual,Bronze,2025-10-04
+C0207,Aisha,Naidoo,Female,  Pietermaritzburg  ,KwaZulu-Natal,Individual,Bronze,2024-06-30
+C0208,Esther,Okafor,Female,Pretoria,Gauteng,Business,Bronze,2024-01-18
+C0209,Grace,Dlamini,Male,Bellville,Western Cape,Individual,Silver,2025-01-31
+C0210,Kabelo,Van Wyk,Male,Soweto,Gauteng,Individual,Silver,2024-01-06
+C0211,David,Adebayo,Female,Durban,KwaZulu-Natal,Individual,Platinum,2025-07-15
+C0212,Esther,Dlamini,Female,Johannesburg,Gauteng,Individual,Gold,2025-03-10
+C0213,Chidinma,Okafor,Female,Polokwane,Limpopo,Business,Silver,2024-07-18
+C0214,Lerato,Pillay,Male,Pretoria,Gauteng,Family,Gold,2025-11-05
+C0215,Nandi,Khumalo,Female,Mbombela,Mpumalanga,Student,Silver,2025-07-20
+C0216,Nomsa,Mokoena,Male,Polokwane,Limpopo,Individual,Silver,2024-11-04
+C0217,Tunde,Ndlovu,Male,Pretoria,Gauteng,Business,Platinum,2024-04-17
+C0218,Grace,Molefe,Male,Umhlanga,KwaZulu-Natal,Family,Silver,2024-07-20
+C0219,Nomsa,Khumalo,Male,Umhlanga,KwaZulu-Natal,Individual,Bronze,2024-07-27
+C0220,Sarah,Jacobs,Female,Bloemfontein,Free State,Family,Silver,2024-01-29
+C0221,Esther,Okafor,Male,Bellville,Western Cape,Business,Silver,2024-08-15
+C0222,Michael,Mensah,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Gold,2025-11-15
+C0223,Mandla,Govender,Male,Bloemfontein,Free State,Student,Silver,2025-01-13
+C0224,Sipho,Van Wyk,Female,Cape Town,Western Cape,Business,Gold,2025-07-15
+C0225,Daniel,Van Wyk,Female,Durban,KwaZulu-Natal,Student,Bronze,2025-10-29
+C0226,Fatima,Jacobs,Female,Gqeberha,Eastern Cape,Student,Silver,2024-02-04
+C0227,Ayanda,Khumalo,Female,Bloemfontein,Free State,Family,Gold,2024-01-06
+C0228,Naledi,Smith,Female,Bloemfontein,Free State,Family,Gold,2025-08-28
+C0229,Michael,Smith,Male,Johannesburg,Gauteng,Student,Bronze,2024-03-12
+C0230,Samuel,Brown,Female,Johannesburg,Gauteng,Family,Bronze,2025-03-11
+C0231,Lerato,Smith,Female,Mbombela,Mpumalanga,Individual,Silver,2025-01-06
+C0232,Tunde,Brown,Male,Cape Town,Western Cape,Individual,Gold,2024-01-21
+C0233,Sarah,Dlamini,Female,Pietermaritzburg,KwaZulu-Natal,Family,Bronze,2024-10-17
+C0234,Nomsa,Khumalo,Female,Umhlanga,KwaZulu-Natal,Individual,Gold,2025-08-19
+C0235,Thabo,Mthembu,Male,Cape Town,Western Cape,Individual,Silver,2024-11-10
+C0236,Sipho,Okafor,Female,Pretoria,Gauteng,Individual,Gold,2024-10-04
+C0237,Chidinma,Brown,Male,Polokwane,Limpopo,Student,Bronze,2025-04-17
+C0238,Kabelo,Mensah,Female,Cape Town,Western Cape,Family,Gold,2024-08-27
+C0239,Emeka,Okafor,Male,Bloemfontein,Free State,Business,Bronze,2025-06-26
+C0240,Chidinma,Nkosi,Female,Johannesburg,Gauteng,Student,Silver,2024-10-12
+C0241,Precious,Nkosi,Male,Cape Town,Western Cape,Business,Silver,2025-05-29
+C0242,Emeka,Naidoo,Male,Bellville,Western Cape,Individual,Gold,2025-02-20
+C0243,Tunde,Jacobs,Male,Durban,KwaZulu-Natal,Individual,Bronze,2024-03-13
+C0244,Kabelo,Dlamini,Female,Pretoria,Gauteng,Student,Bronze,2024-09-12
+C0245,Naledi,Molefe,Male,Pietermaritzburg,KwaZulu-Natal,Student,Silver,2025-11-05
+C0246,Daniel,Molefe,Male,Gqeberha,Eastern Cape,Individual,Bronze,2025-03-20
+C0247,Zanele,Ndlovu,Female,Umhlanga,KwaZulu-Natal,Business,Gold,2024-12-18
+C0248,Chidinma,Mkhize,Male,Bellville,Western Cape,Individual,Gold,2025-01-13
+C0249,Precious,Khumalo,Female,Polokwane,Limpopo,Student,Bronze,2025-09-15
+C0250,Michael,Van Wyk,Male,Polokwane,Limpopo,Individual,Silver,2025-09-28
+C0251,Michael,Jacobs,Male,Polokwane,Limpopo,Individual,Silver,2024-01-18
+C0252,Sipho,Khumalo,Female,Soweto,Gauteng,Student,Bronze,2024-07-28
+C0253,Emeka,Molefe,Female,Mbombela,Mpumalanga,Student,Gold,2024-01-02
+C0254,Michael,Jacobs,Female,Johannesburg,Gauteng,Individual,Gold,2024-07-17
+C0255,Sarah,Naidoo,Female,Johannesburg,Gauteng,Family,Bronze,2025-08-25
+C0256,Samuel,Williams,Female,Gqeberha,Eastern Cape,Business,Silver,2024-11-29
+C0257,Tunde,Jacobs,Female,Durban,KwaZulu-Natal,Family,Gold,2024-07-05
+C0258,Sibusiso,Mokoena,Male,Gqeberha,Eastern Cape,Student,Silver,2025-07-05
+C0259,Chidinma,Okafor,Male,  Pretoria  ,Gauteng,Student,Silver,2024-08-11
+C0260,Chidinma,Williams,Male,Johannesburg,Gauteng,Individual,Bronze,2025-10-30
+C0261,Chidinma,Van Wyk,Male,Polokwane,Limpopo,Student,Platinum,2025-06-01
+C0262,Emeka,Naidoo,Male,Polokwane,Limpopo,Student,Bronze,2024-03-13
+C0263,Nandi,Khumalo,Female,Durban,KwaZulu-Natal,Student,Silver,2024-07-03
+C0264,Fatima,Mthembu,Female,Umhlanga,KwaZulu-Natal,Individual,Bronze,2024-12-27
+C0265,Kabelo,Molefe,Male,Pietermaritzburg,KwaZulu-Natal,Student,Bronze,2025-06-28
+C0266,Ayanda,Mensah,Female,Soweto,Gauteng,Family,Bronze,2024-02-12
+C0267,Zanele,Van Wyk,Female,Bellville,Western Cape,Individual,Bronze,2024-06-10
+C0268,Fatima,Smith,Female,Umhlanga,KwaZulu-Natal,Student,Bronze,2024-10-18
+C0269,Sipho,Mthembu,Female,Johannesburg,Gauteng,Family,Bronze,2024-03-18
+C0270,Grace,Williams,Female,Umhlanga,KwaZulu-Natal,Individual,Bronze,2024-12-21
+C0271,Thabo,Van Wyk,Male,Bloemfontein,Free State,Individual,Gold,2024-11-23
+C0272,Michael,Williams,Female,Polokwane,Limpopo,Individual,Bronze,2025-08-11
+C0273,Samuel,Brown,Female,Polokwane,Limpopo,Student,Silver,2025-08-27
+C0274,Nomsa,Mkhize,Male,Bellville,Western Cape,Student,Bronze,2025-04-23
+C0275,Chidinma,Mensah,Male,Soweto,Gauteng,Business,Bronze,2024-12-12
+C0276,Emeka,Nkosi,Female,Polokwane,Limpopo,Family,Bronze,2024-11-18
+C0277,Tunde,Jacobs,Female,Polokwane,Limpopo,Student,Bronze,2024-01-15
+C0278,Nomsa,Mthembu,Male,Durban,KwaZulu-Natal,Student,Bronze,2025-10-05
+C0279,Nandi,Okafor,Male,Umhlanga,KwaZulu-Natal,Student,Bronze,2025-05-09
+C0280,Precious,Mensah,Female,Pietermaritzburg,KwaZulu-Natal,Student,Silver,2025-03-10
+C0281,Michael,Williams,Female,Polokwane,Limpopo,Individual,Gold,2024-12-11
+C0282,Samuel,Mthembu,Male,Cape Town,Western Cape,Family,Silver,2024-01-04
+C0283,Sarah,Govender,Female,Cape Town,Western Cape,Student,Gold,2025-11-27
+C0284,Lerato,Williams,Female,Johannesburg,Gauteng,Individual,Gold,2025-08-21
+C0285,Michael,Mkhize,Male,Soweto,Gauteng,Individual,Silver,2025-09-28
+C0286,Aisha,Williams,Female,Bloemfontein,Free State,Individual,Gold,2025-11-20
+C0287,Lerato,Brown,Male,Pretoria,Gauteng,Individual,Gold,2024-03-20
+C0288,Nomsa,Khumalo,Male,Umhlanga,KwaZulu-Natal,Student,Bronze,2025-02-24
+C0289,Emeka,Govender,Male,Durban,KwaZulu-Natal,Individual,Bronze,2025-08-26
+C0290,Kabelo,Mkhize,Male,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2024-01-21
+C0291,Sipho,Mensah,Male,Johannesburg,Gauteng,Student,Silver,2025-08-14
+C0292,Precious,Smith,Male,Pietermaritzburg,KwaZulu-Natal,Family,Bronze,2025-05-10
+C0293,Sibusiso,Mthembu,Female,Pietermaritzburg,KwaZulu-Natal,Family,Silver,2024-06-14
+C0294,Zanele,Naidoo,Male,Polokwane,Limpopo,Student,Silver,2024-03-29
+C0295,Ayanda,Mokoena,Male,Soweto,Gauteng,Student,Silver,2024-03-25
+C0296,Samuel,Smith,Male,Durban,KwaZulu-Natal,Student,Bronze,2025-11-25
+C0297,Sibusiso,Dlamini,Female,Pietermaritzburg,KwaZulu-Natal,Business,Silver,2024-09-28
+C0298,Daniel,Naidoo,Male,Mbombela,Mpumalanga,Family,Gold,2024-03-29
+C0299,Sarah,Khumalo,Male,Soweto,Gauteng,Individual,Silver,2024-05-07
+C0300,Michael,Adebayo,Male,Johannesburg,Gauteng,Student,Silver,2024-07-10
+C0301,Fatima,Adebayo,Female,Pretoria,Gauteng,Individual,Silver,2025-11-14
+C0302,Emeka,Mokoena,Female,Durban,KwaZulu-Natal,Student,Silver,2025-08-08
+C0303,David,Molefe,Male,Polokwane,Limpopo,Student,Gold,2025-08-10
+C0304,Sarah,Khumalo,Male,Umhlanga,KwaZulu-Natal,Individual,Silver,2024-06-26
+C0305,Kabelo,Govender,Male,Pietermaritzburg,KwaZulu-Natal,Individual,Silver,2025-01-07
+C0306,Ayanda,Van Wyk,Female,Gqeberha,Eastern Cape,Individual,Gold,2025-05-23
+C0307,David,Govender,Female,Bloemfontein,Free State,Business,Bronze,2025-10-08
+C0308,Michael,Adebayo,Female,Gqeberha,Eastern Cape,Student,Gold,2024-12-26
+C0309,Nomsa,Naidoo,Male,Polokwane,Limpopo,Individual,Bronze,2025-10-19
+C0310,Esther,Khumalo,Female,Johannesburg,Gauteng,Family,Bronze,2024-03-06
+C0311,Kabelo,Khumalo,Female,Cape Town,Western Cape,Family,Bronze,2024-09-08
+C0312,Fatima,Naidoo,Female,Soweto,Gauteng,Student,Bronze,2025-11-04
+C0313,Kabelo,Van Wyk,Male,Soweto,Gauteng,Family,Gold,2024-06-19
+C0314,Aisha,Okafor,Male,Umhlanga,KwaZulu-Natal,Individual,Silver,2024-05-28
+C0315,Sipho,Nkosi,Male,Cape Town,Western Cape,Family,Bronze,2024-10-16
+C0316,Fatima,Williams,Male,Pietermaritzburg,KwaZulu-Natal,Family,Silver,2024-12-27
+C0317,Samuel,Mensah,Female,Bloemfontein,Free State,Family,Silver,2024-11-07
+C0318,Aisha,Naidoo,Female,Cape Town,Western Cape,Business,Gold,2024-03-14
+C0319,Aisha,Molefe,Male,Mbombela,Mpumalanga,Family,Bronze,2024-01-03
+C0320,Nandi,Govender,Female,Pretoria,Gauteng,Family,Bronze,2024-05-23
+C0321,Nomsa,Daniels,Male,Bloemfontein,Free State,Business,Bronze,2025-07-17
+C0322,Ayanda,Okafor,Male,Johannesburg,Gauteng,Family,Bronze,2025-05-18
+C0323,Naledi,Mensah,Male,Soweto,Gauteng,Individual,Silver,2025-02-03
+C0324,Sibusiso,Daniels,Female,Johannesburg,Gauteng,Individual,Silver,2025-02-10
+C0325,Grace,Govender,Male,Gqeberha,Eastern Cape,Business,Silver,2024-02-17
+C0326,CHIDINMA,Van Wyk,Male,Durban,KwaZulu-Natal,Individual,Bronze,2024-05-17
+C0327,Sibusiso,Jacobs,Female,Soweto,Gauteng,Student,Bronze,2024-08-03
+C0328,Thabo,Ndlovu,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Platinum,2025-04-24
+C0329,Sipho,Mthembu,Male,Mbombela,Mpumalanga,Student,Bronze,2024-11-27
+C0330,Sipho,Adebayo,Female,Johannesburg,Gauteng,Family,Bronze,2025-06-11
+C0331,Esther,Khumalo,Male,Soweto,Gauteng,Student,Bronze,2024-12-01
+C0332,Naledi,Jacobs,Female,Mbombela,Mpumalanga,Individual,Bronze,2024-12-31
+C0333,Samuel,Govender,Male,Umhlanga,KwaZulu-Natal,Student,Silver,2024-03-03
+C0334,Ayanda,Ndlovu,Male,Gqeberha,Eastern Cape,Family,Silver,2025-11-02
+C0335,Aisha,Nkosi,Female,Pretoria,Gauteng,Student,Bronze,2024-04-04
+C0336,Aisha,Molefe,Female,Bellville,Western Cape,Family,Gold,2024-07-25
+C0337,Esther,Van Wyk,Male,Johannesburg,Gauteng,Business,Platinum,2025-03-05
+C0338,Naledi,Molefe,Female,Umhlanga,KwaZulu-Natal,Business,Bronze,2025-11-18
+C0339,Aisha,Daniels,Female,Bellville,Western Cape,Student,Bronze,2024-06-04
+C0340,Lerato,Mkhize,Male,Cape Town,Western Cape,Student,Gold,2025-01-22
+C0341,Thabo,Pillay,Male,Pretoria,Gauteng,Individual,Silver,2024-12-30
+C0342,Ayanda,Van Wyk,Female,Pretoria,Gauteng,Individual,Bronze,2024-04-25
+C0343,Nomsa,Mokoena,Female,Bellville,Western Cape,Family,Silver,2025-01-01
+C0344,Zanele,Mthembu,Male,Cape Town,Western Cape,Individual,Bronze,2025-05-29
+C0345,Daniel,Mensah,Female,Polokwane,Limpopo,Individual,Gold,2024-01-22
+C0346,Sipho,Brown,Male,Mbombela,Mpumalanga,Student,Platinum,2025-06-24
+C0347,Esther,Mokoena,Male,Bellville,Western Cape,Student,Gold,2025-05-23
+C0348,Kabelo,Daniels,Female,Cape Town,Western Cape,Individual,Gold,2024-03-11
+C0349,Tunde,Molefe,Male,Pretoria,Gauteng,Student,Bronze,2024-02-13
+C0350,David,Mokoena,Male,Soweto,Gauteng,Student,Silver,2024-11-10
+C0351,Chidinma,Khumalo,Female,Mbombela,Mpumalanga,Family,Gold,2025-06-06
+C0352,Sipho,Molefe,Male,Umhlanga,KwaZulu-Natal,Individual,Bronze,2024-08-25
+C0353,Esther,Daniels,Male,Cape Town,Western Cape,Student,Bronze,2024-01-26
+C0354,David,Jacobs,Female,Mbombela,Mpumalanga,Family,Gold,2025-10-20
+C0355,Precious,Smith,Male,Pietermaritzburg,KwaZulu-Natal,Individual,Silver,2024-11-12
+C0356,Daniel,Naidoo,Male,Bloemfontein,Free State,Individual,Bronze,2025-01-05
+C0357,Naledi,Williams,Male,Mbombela,Mpumalanga,Student,Bronze,2024-05-07
+C0358,Precious,Naidoo,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Platinum,2025-10-28
+C0359,Mandla,Ndlovu,Male,Gqeberha,Eastern Cape,Student,Silver,2025-11-02
+C0360,Emeka,Nkosi,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2024-05-25
+C0361,Michael,Daniels,Female,  Gqeberha  ,Eastern Cape,Student,Gold,2024-01-02
+C0362,Aisha,Daniels,Female,Polokwane,Limpopo,Individual,Silver,2024-08-13
+C0363,Emeka,Smith,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Silver,2025-04-07
+C0364,Sipho,Okafor,Female,Bellville,Western Cape,Business,Gold,2024-05-11
+C0365,Sibusiso,Daniels,Female,Durban,KwaZulu-Natal,Family,Silver,2025-08-10
+C0366,Daniel,Nkosi,Female,Pretoria,Gauteng,Business,Bronze,2024-04-17
+C0367,Michael,Dlamini,Female,Durban,KwaZulu-Natal,Student,Bronze,2024-02-09
+C0368,Nandi,Nkosi,Male,Polokwane,Limpopo,Individual,Gold,2025-07-10
+C0369,Chidinma,Govender,Female,Bloemfontein,Free State,Family,Bronze,2024-05-27
+C0370,Michael,Daniels,Male,Bloemfontein,Free State,Individual,Silver,2025-10-08
+C0371,Michael,Daniels,Male,Polokwane,Limpopo,Student,Platinum,2024-07-15
+C0372,Kabelo,Govender,Male,Bellville,Western Cape,Student,Silver,2024-07-15
+C0373,Lerato,Khumalo,Female,Umhlanga,KwaZulu-Natal,Student,Bronze,2025-07-05
+C0374,Tunde,Nkosi,Male,Bloemfontein,Free State,Individual,Gold,2025-03-18
+C0375,Lerato,Mkhize,Female,  Mbombela  ,Mpumalanga,Individual,Silver,2025-05-18
+C0376,Michael,Adebayo,Male,Bloemfontein,Free State,Family,Silver,2024-11-18
+C0377,Naledi,Williams,Female,Pretoria,Gauteng,Individual,Platinum,2025-01-02
+C0378,Esther,Smith,Male,Polokwane,Limpopo,Student,Silver,2024-08-27
+C0379,Emeka,Smith,Female,Umhlanga,KwaZulu-Natal,Family,Bronze,2025-11-22
+C0380,NOMSA,Mensah,Female,Polokwane,Limpopo,Family,Silver,2024-11-10
+C0381,Nandi,Van Wyk,Male,Mbombela,Mpumalanga,Business,Silver,2025-06-09
+C0382,Kabelo,Nkosi,Male,Gqeberha,Eastern Cape,Individual,Platinum,2025-04-06
+C0383,Naledi,Jacobs,Female,Polokwane,Limpopo,Individual,Silver,2024-10-02
+C0384,Ayanda,Govender,Male,Mbombela,Mpumalanga,Individual,Silver,2024-10-09
+C0385,Nandi,Mensah,Female,Cape Town,Western Cape,Individual,Gold,2024-08-19
+C0386,Ayanda,Adebayo,Female,Umhlanga,KwaZulu-Natal,Individual,Bronze,2024-10-20
+C0387,Daniel,Williams,Female,Durban,KwaZulu-Natal,Individual,Bronze,2024-06-29
+C0388,Nandi,Ndlovu,Female,Johannesburg,Gauteng,Student,Silver,2024-03-29
+C0389,Sarah,Pillay,Male,Johannesburg,Gauteng,Family,Silver,2024-08-01
+C0390,Ayanda,Nkosi,Male,Pretoria,Gauteng,Individual,Bronze,2024-01-14
+C0391,Daniel,Mensah,Male,Mbombela,Mpumalanga,Family,Gold,2025-06-09
+C0392,Aisha,Smith,Male,Gqeberha,Eastern Cape,Family,Bronze,2024-06-21
+C0393,Chidinma,Brown,Male,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2024-07-15
+C0394,Zanele,Govender,Female,Pietermaritzburg,KwaZulu-Natal,Family,Gold,2024-07-17
+C0395,Lerato,Molefe,Male,Soweto,Gauteng,Student,Silver,2025-01-17
+C0396,Michael,Govender,Female,Pretoria,Gauteng,Business,Silver,2025-05-05
+C0397,Precious,Mensah,Female,Johannesburg,Gauteng,Individual,Silver,2024-02-14
+C0398,Sarah,Pillay,Female,Soweto,Gauteng,Business,Bronze,2024-08-12
+C0399,Michael,Jacobs,Female,Cape Town,Western Cape,Family,Bronze,2025-01-12
+C0400,Zanele,Pillay,Male,Gqeberha,Eastern Cape,Family,Silver,2024-10-07
+C0401,Sibusiso,Dlamini,Female,Polokwane,Limpopo,Individual,Platinum,2025-08-16
+C0402,Naledi,Mensah,Male,Umhlanga,KwaZulu-Natal,Individual,Silver,2025-08-20
+C0403,Nandi,Nkosi,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Silver,2025-07-23
+C0404,Michael,Adebayo,Female,Pietermaritzburg,KwaZulu-Natal,Student,Gold,2024-08-21
+C0405,Sipho,Mkhize,Female,Bellville,Western Cape,Business,Gold,2025-10-17
+C0406,Thabo,Molefe,Female,Durban,KwaZulu-Natal,Family,Gold,2025-11-15
+C0407,Daniel,Williams,Female,Johannesburg,Gauteng,Family,Silver,2025-03-14
+C0408,Sipho,Williams,Male,Johannesburg,Gauteng,Student,Silver,2024-11-15
+C0409,Kabelo,Naidoo,Female,Mbombela,Mpumalanga,Individual,Bronze,2024-11-19
+C0410,Ayanda,Mthembu,Female,Durban,KwaZulu-Natal,Individual,Bronze,2025-02-14
+C0411,Sarah,Mthembu,Female,Mbombela,Mpumalanga,Family,Gold,2025-02-03
+C0412,Michael,Govender,Male,Durban,KwaZulu-Natal,Student,Bronze,2024-04-27
+C0413,Thabo,Van Wyk,Male,Johannesburg,Gauteng,Family,Gold,2024-06-13
+C0414,Grace,Govender,Female,Bloemfontein,Free State,Family,Bronze,2024-04-06
+C0415,Nomsa,Jacobs,Female,Johannesburg,Gauteng,Individual,Platinum,2024-07-19
+C0416,Nomsa,Dlamini,Female,Johannesburg,Gauteng,Student,Bronze,2024-05-14
+C0417,Emeka,Govender,Male,Bellville,Western Cape,Individual,Platinum,2024-07-21
+C0418,Nomsa,Okafor,Male,Gqeberha,Eastern Cape,Student,Bronze,2025-11-17
+C0419,Emeka,Adebayo,Male,Gqeberha,Eastern Cape,Family,Bronze,2024-11-29
+C0420,Tunde,Mthembu,Female,Pretoria,Gauteng,Family,Bronze,2025-09-11
+C0421,Thabo,Govender,Male,Soweto,Gauteng,Family,Bronze,2024-04-19
+C0422,Samuel,Molefe,Male,Pietermaritzburg,KwaZulu-Natal,Individual,Silver,2024-10-23
+C0423,Daniel,Williams,Male,Umhlanga,KwaZulu-Natal,Family,Silver,2024-01-01
+C0424,David,Okafor,Female,Durban,KwaZulu-Natal,Business,Silver,2025-11-25
+C0425,NALEDI,Van Wyk,Male,Mbombela,Mpumalanga,Student,Silver,2024-03-23
+C0426,Naledi,Nkosi,Male,Soweto,Gauteng,Individual,Silver,2025-11-14
+C0427,Fatima,Naidoo,Female,Gqeberha,Eastern Cape,Individual,Bronze,2024-09-15
+C0428,Ayanda,Dlamini,Female,Soweto,Gauteng,Individual,Gold,2025-04-15
+C0429,Emeka,Ndlovu,Female,Polokwane,Limpopo,Family,Gold,2025-10-17
+C0430,Tunde,Okafor,Male,Polokwane,Limpopo,Individual,Silver,2024-10-18
+C0431,Ayanda,Nkosi,Female,Mbombela,Mpumalanga,Family,Silver,2024-06-04
+C0432,Lerato,Jacobs,Male,Johannesburg,Gauteng,Student,Gold,2025-09-17
+C0433,Mandla,Dlamini,Female,Soweto,Gauteng,Student,Bronze,2024-08-03
+C0434,Daniel,Brown,Female,Bloemfontein,Free State,Student,Bronze,2025-01-08
+C0435,Sibusiso,Dlamini,Male,Polokwane,Limpopo,Student,Bronze,2025-08-18
+C0436,Nandi,Williams,Female,Durban,KwaZulu-Natal,Student,Silver,2025-06-26
+C0437,Sibusiso,Naidoo,Female,Soweto,Gauteng,Family,Bronze,2024-01-19
+C0438,David,Khumalo,Female,Cape Town,Western Cape,Family,Gold,2024-04-12
+C0439,Zanele,Okafor,Female,Mbombela,Mpumalanga,Individual,Gold,2024-01-31
+C0440,Naledi,Adebayo,Male,Pretoria,Gauteng,Individual,Silver,2024-03-05
+C0441,Fatima,Molefe,Female,Umhlanga,KwaZulu-Natal,Individual,Gold,2024-05-21
+C0442,Chidinma,Ndlovu,Female,Bloemfontein,Free State,Family,Silver,2024-12-18
+C0443,Kabelo,Naidoo,Female,Umhlanga,KwaZulu-Natal,Individual,Bronze,2025-03-13
+C0444,Aisha,Jacobs,Female,Pretoria,Gauteng,Family,Bronze,2024-05-25
+C0445,Chidinma,Molefe,Female,Pietermaritzburg,KwaZulu-Natal,Student,Bronze,2024-04-23
+C0446,Naledi,Khumalo,Female,Durban,KwaZulu-Natal,Family,Bronze,2024-05-02
+C0447,Chidinma,Molefe,Male,Pretoria,Gauteng,Business,Bronze,2025-11-22
+C0448,Sipho,Brown,Male,Soweto,Gauteng,Individual,Bronze,2025-04-02
+C0449,Thabo,Mthembu,Female,Gqeberha,Eastern Cape,Family,Platinum,2025-10-30
+C0450,LERATO,Mthembu,Male,Umhlanga,KwaZulu-Natal,Student,Bronze,2025-09-03
+C0451,Emeka,Williams,Female,Soweto,Gauteng,Family,Bronze,2024-06-25
+C0452,Samuel,Dlamini,Male,Gqeberha,Eastern Cape,Individual,Silver,2025-05-29
+C0453,Aisha,Khumalo,Female,Soweto,Gauteng,Family,Silver,2024-11-20
+C0454,Michael,Nkosi,Male,Gqeberha,Eastern Cape,Student,Silver,2024-01-19
+C0455,Daniel,Williams,Female,Cape Town,Western Cape,Individual,Bronze,2024-07-20
+C0456,Emeka,Van Wyk,Male,Johannesburg,Gauteng,Family,Gold,2024-10-20
+C0457,Thabo,Ndlovu,Female,Bellville,Western Cape,Individual,Bronze,2025-06-12
+C0458,Grace,Naidoo,Female,Pretoria,Gauteng,Individual,Bronze,2024-07-08
+C0459,Tunde,Khumalo,Female,Johannesburg,Gauteng,Individual,Silver,2025-08-14
+C0460,Tunde,Okafor,Male,Johannesburg,Gauteng,Student,Bronze,2024-02-16
+C0461,Ayanda,Nkosi,Male,Bellville,Western Cape,Family,Silver,2025-06-28
+C0462,Tunde,Khumalo,Female,Umhlanga,KwaZulu-Natal,Family,Silver,2024-04-30
+C0463,Aisha,Williams,Male,Mbombela,Mpumalanga,Individual,Platinum,2024-11-28
+C0464,Grace,Mensah,Female,Pretoria,Gauteng,Student,Silver,2024-02-11
+C0465,Zanele,Ndlovu,Male,Soweto,Gauteng,Student,Silver,2024-01-19
+C0466,Nomsa,Pillay,Male,Pietermaritzburg,KwaZulu-Natal,Student,Bronze,2024-05-29
+C0467,Sarah,Mokoena,Female,Soweto,Gauteng,Individual,Bronze,2024-02-24
+C0468,Michael,Mensah,Male,Pietermaritzburg,KwaZulu-Natal,Family,Bronze,2024-04-04
+C0469,Sipho,Jacobs,Female,Cape Town,Western Cape,Individual,Bronze,2025-01-02
+C0470,Daniel,Molefe,Male,Cape Town,Western Cape,Individual,Silver,2024-09-07
+C0471,Ayanda,Smith,Male,Polokwane,Limpopo,Student,Gold,2024-01-23
+C0472,Michael,Khumalo,Female,Polokwane,Limpopo,Student,Bronze,2025-10-12
+C0473,Ayanda,Mensah,Male,Polokwane,Limpopo,Student,Silver,2024-10-12
+C0474,Ayanda,Molefe,Male,Bloemfontein,Free State,Family,Gold,2024-03-26
+C0475,NOMSA,Adebayo,Female,Pietermaritzburg,KwaZulu-Natal,Family,Silver,2024-04-10
+C0476,Zanele,Ndlovu,Male,Soweto,Gauteng,Student,Bronze,2025-11-28
+C0477,Naledi,Adebayo,Male,Pretoria,Gauteng,Individual,Platinum,2024-03-01
+C0478,Sibusiso,Pillay,Female,Polokwane,Limpopo,Family,Bronze,2025-02-07
+C0479,Ayanda,Jacobs,Male,Gqeberha,Eastern Cape,Business,Silver,2025-01-06
+C0480,Daniel,Ndlovu,Male,Gqeberha,Eastern Cape,Business,Bronze,2024-12-11
+C0481,Zanele,Govender,Female,Mbombela,Mpumalanga,Individual,Silver,2024-11-25
+C0482,Samuel,Dlamini,Male,Durban,KwaZulu-Natal,Individual,Bronze,2024-03-30
+C0483,Lerato,Daniels,Male,Pretoria,Gauteng,Student,Gold,2024-01-22
+C0484,Samuel,Molefe,Male,Gqeberha,Eastern Cape,Individual,Bronze,2025-02-16
+C0485,Sarah,Mensah,Female,Pretoria,Gauteng,Individual,Silver,2024-09-22
+C0486,Sarah,Mkhize,Female,Polokwane,Limpopo,Business,Bronze,2025-10-10
+C0487,Nandi,Khumalo,Male,Umhlanga,KwaZulu-Natal,Individual,Silver,2025-11-09
+C0488,Zanele,Khumalo,Female,Cape Town,Western Cape,Individual,Silver,2025-02-01
+C0489,Michael,Pillay,Male,  Soweto  ,Gauteng,Individual,Bronze,2025-11-10
+C0490,Kabelo,Smith,Female,Mbombela,Mpumalanga,Individual,Bronze,2024-08-30
+C0491,David,Mthembu,Male,Soweto,Gauteng,Student,Silver,2025-11-08
+C0492,Kabelo,Mkhize,Male,Bellville,Western Cape,Student,Silver,2024-09-29
+C0493,Sibusiso,Khumalo,Male,Johannesburg,Gauteng,Family,Bronze,2025-01-03
+C0494,Nomsa,Dlamini,Female,Pretoria,Gauteng,Business,Silver,2025-08-01
+C0495,Chidinma,Molefe,Male,Johannesburg,Gauteng,Family,Bronze,2025-04-04
+C0496,KABELO,Daniels,Female,Mbombela,Mpumalanga,Individual,Gold,2025-10-23
+C0497,Mandla,Ndlovu,Female,Bellville,Western Cape,Individual,Bronze,2025-03-07
+C0498,Sarah,Jacobs,Male,Bellville,Western Cape,Family,Silver,2024-01-27
+C0499,Sipho,Brown,Female,Bloemfontein,Free State,Student,Silver,2024-04-15
+C0500,Precious,Pillay,Female,Gqeberha,Eastern Cape,Individual,Silver,2025-08-19
+C0501,Lerato,Dlamini,Female,Pretoria,Gauteng,Student,Gold,2025-10-17
+C0502,Chidinma,Okafor,Male,Pretoria,Gauteng,Family,Bronze,2024-08-19
+C0503,Nomsa,Molefe,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2025-04-15
+C0504,Fatima,Williams,Female,Cape Town,Western Cape,Family,Silver,2024-04-22
+C0505,Lerato,Brown,Male,Durban,KwaZulu-Natal,Individual,Platinum,2024-02-23
+C0506,Naledi,Mensah,Male,Pretoria,Gauteng,Family,Bronze,2025-11-05
+C0507,David,Adebayo,Female,Bellville,Western Cape,Individual,Gold,2025-02-09
+C0508,Chidinma,Govender,Male,Umhlanga,KwaZulu-Natal,Student,Gold,2024-09-19
+C0509,NOMSA,Brown,Female,Soweto,Gauteng,Individual,Silver,2025-03-22
+C0510,Grace,Williams,Male,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2025-11-18
+C0511,Chidinma,Adebayo,Male,Cape Town,Western Cape,Individual,Bronze,2024-03-31
+C0512,Lerato,Dlamini,Female,Pietermaritzburg,KwaZulu-Natal,Family,Gold,2024-03-23
+C0513,Sarah,Adebayo,Male,Bellville,Western Cape,Individual,Bronze,2025-05-26
+C0514,Chidinma,Adebayo,Female,Pietermaritzburg,KwaZulu-Natal,Student,Silver,2025-09-04
+C0515,Chidinma,Smith,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Silver,2025-02-09
+C0516,Chidinma,Jacobs,Female,Gqeberha,Eastern Cape,Family,Bronze,2024-04-24
+C0517,Daniel,Adebayo,Female,Bloemfontein,Free State,Individual,Bronze,2025-02-10
+C0518,Tunde,Daniels,Female,Pretoria,Gauteng,Individual,Bronze,2024-11-19
+C0519,Thabo,Williams,Male,Soweto,Gauteng,Student,Bronze,2024-12-10
+C0520,Esther,Daniels,Male,Pretoria,Gauteng,Student,Platinum,2024-08-28
+C0521,Chidinma,Okafor,Male,Pretoria,Gauteng,Individual,Gold,2024-10-17
+C0522,Fatima,Dlamini,Female,Gqeberha,Eastern Cape,Student,Silver,2025-11-13
+C0523,Zanele,Adebayo,Female,Polokwane,Limpopo,Family,Silver,2024-09-08
+C0524,Ayanda,Mkhize,Male,Durban,KwaZulu-Natal,Individual,Bronze,2024-10-27
+C0525,Mandla,Mokoena,Female,Bellville,Western Cape,Individual,Platinum,2024-11-30
+C0526,Esther,Mthembu,Male,Cape Town,Western Cape,Student,Silver,2025-11-02
+C0527,Esther,Adebayo,Female,Gqeberha,Eastern Cape,Individual,Gold,2024-09-29
+C0528,Fatima,Dlamini,Male,Mbombela,Mpumalanga,Business,Gold,2024-02-01
+C0529,Daniel,Pillay,Female,Bloemfontein,Free State,Student,Bronze,2024-01-04
+C0530,Aisha,Okafor,Female,Bloemfontein,Free State,Student,Silver,2025-08-07
+C0531,Kabelo,Ndlovu,Female,Bellville,Western Cape,Business,Silver,2025-05-10
+C0532,Grace,Williams,Female,Polokwane,Limpopo,Individual,Bronze,2024-10-05
+C0533,Chidinma,Okafor,Male,Johannesburg,Gauteng,Business,Bronze,2025-07-07
+C0534,Sibusiso,Mensah,Male,Pretoria,Gauteng,Individual,Platinum,2024-05-12
+C0535,Nandi,Jacobs,Male,Mbombela,Mpumalanga,Student,Gold,2024-03-30
+C0536,Tunde,Okafor,Female,Soweto,Gauteng,Family,Platinum,2025-05-10
+C0537,Naledi,Mensah,Female,Mbombela,Mpumalanga,Family,Platinum,2025-03-14
+C0538,Nandi,Naidoo,Female,Gqeberha,Eastern Cape,Family,Silver,2024-03-29
+C0539,David,Williams,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Gold,2024-05-30
+C0540,Lerato,Jacobs,Male,Mbombela,Mpumalanga,Family,Silver,2025-11-11
+C0541,Naledi,Khumalo,Female,Polokwane,Limpopo,Individual,Bronze,2024-07-14
+C0542,Fatima,Okafor,Male,Johannesburg,Gauteng,Individual,Bronze,2024-09-10
+C0543,Grace,Van Wyk,Female,Bloemfontein,Free State,Student,Gold,2025-05-22
+C0544,Ayanda,Naidoo,Male,Gqeberha,Eastern Cape,Business,Silver,2024-11-08
+C0545,Precious,Dlamini,Male,Polokwane,Limpopo,Student,Bronze,2025-08-25
+C0546,Emeka,Mkhize,Male,Durban,KwaZulu-Natal,Business,Bronze,2024-05-24
+C0547,Esther,Smith,Female,Mbombela,Mpumalanga,Individual,Platinum,2025-09-01
+C0548,Nomsa,Mthembu,Male,Durban,KwaZulu-Natal,Student,Bronze,2025-11-15
+C0549,Esther,Okafor,Male,Bellville,Western Cape,Student,Bronze,2024-04-13
+C0550,Nandi,Smith,Male,Pretoria,Gauteng,Individual,Gold,2024-05-16
+C0551,Sipho,Daniels,Male,Johannesburg,Gauteng,Individual,Silver,2025-07-11
+C0552,Zanele,Molefe,Male,Pietermaritzburg,KwaZulu-Natal,Family,Silver,2024-05-21
+C0553,David,Okafor,Female,Pietermaritzburg,KwaZulu-Natal,Family,Platinum,2024-03-30
+C0554,Lerato,Mokoena,Male,Pretoria,Gauteng,Student,Bronze,2024-08-31
+C0555,Kabelo,Jacobs,Female,Bellville,Western Cape,Individual,Platinum,2025-08-17
+C0556,Ayanda,Adebayo,Female,Bellville,Western Cape,Family,Silver,2024-09-21
+C0557,Mandla,Naidoo,Male,Soweto,Gauteng,Student,Bronze,2024-05-09
+C0558,Fatima,Khumalo,Female,Polokwane,Limpopo,Family,Bronze,2025-04-02
+C0559,Tunde,Ndlovu,Female,Durban,KwaZulu-Natal,Student,Silver,2025-09-23
+C0560,Nandi,Daniels,Male,Polokwane,Limpopo,Business,Bronze,2024-04-28
+C0561,Zanele,Govender,Female,  Polokwane  ,Limpopo,Student,Silver,2025-01-06
+C0562,Esther,Adebayo,Male,Soweto,Gauteng,Individual,Bronze,2024-12-29
+C0563,David,Naidoo,Male,Pietermaritzburg,KwaZulu-Natal,Business,Silver,2024-12-24
+C0564,Sarah,Smith,Male,Johannesburg,Gauteng,Individual,Bronze,2024-11-30
+C0565,Sibusiso,Brown,Female,Johannesburg,Gauteng,Individual,Bronze,2025-05-18
+C0566,Sibusiso,Smith,Male,Pretoria,Gauteng,Student,Platinum,2025-03-22
+C0567,Sibusiso,Williams,Male,Mbombela,Mpumalanga,Individual,Gold,2024-07-16
+C0568,Lerato,Naidoo,Female,Bellville,Western Cape,Student,Gold,2024-11-28
+C0569,Zanele,Brown,Female,Polokwane,Limpopo,Individual,Gold,2025-09-24
+C0570,Tunde,Naidoo,Female,Polokwane,Limpopo,Individual,Gold,2024-10-26
+C0571,Naledi,Govender,Male,Johannesburg,Gauteng,Individual,Bronze,2024-10-31
+C0572,Ayanda,Okafor,Female,Pietermaritzburg,KwaZulu-Natal,Family,Platinum,2025-04-08
+C0573,Fatima,Govender,Female,Soweto,Gauteng,Individual,Bronze,2025-03-16
+C0574,Tunde,Mensah,Male,Bellville,Western Cape,Individual,Silver,2025-07-22
+C0575,Precious,Govender,Female,Umhlanga,KwaZulu-Natal,Individual,Bronze,2025-02-22
+C0576,Daniel,Williams,Male,Umhlanga,KwaZulu-Natal,Student,Bronze,2025-06-05
+C0577,Lerato,Mensah,Male,Bloemfontein,Free State,Individual,Silver,2024-06-06
+C0578,Samuel,Mensah,Male,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2025-09-18
+C0579,Kabelo,Adebayo,Male,Bellville,Western Cape,Business,Bronze,2024-07-16
+C0580,Aisha,Pillay,Female,Mbombela,Mpumalanga,Individual,Silver,2024-05-18
+C0581,Sipho,Adebayo,Male,Bellville,Western Cape,Family,Gold,2024-04-28
+C0582,Michael,Mthembu,Female,Bloemfontein,Free State,Student,Bronze,2025-05-10
+C0583,Michael,Daniels,Female,Durban,KwaZulu-Natal,Individual,Bronze,2024-09-29
+C0584,Aisha,Jacobs,Male,Mbombela,Mpumalanga,Individual,Bronze,2024-07-10
+C0585,David,Van Wyk,Male,Durban,KwaZulu-Natal,Individual,Silver,2024-04-14
+C0586,Samuel,Nkosi,Female,Durban,KwaZulu-Natal,Individual,Gold,2024-02-18
+C0587,NALEDI,Nkosi,Male,Bloemfontein,Free State,Family,Gold,2024-05-24
+C0588,Sipho,Okafor,Female,Durban,KwaZulu-Natal,Family,Bronze,2024-11-09
+C0589,Esther,Ndlovu,Female,Pietermaritzburg,KwaZulu-Natal,Individual,Bronze,2024-06-10
+C0590,Naledi,Brown,Female,Bellville,Western Cape,Individual,Bronze,2024-11-23
+C0591,David,Nkosi,Male,Polokwane,Limpopo,Family,Bronze,2024-05-08
+C0592,Emeka,Williams,Male,Umhlanga,KwaZulu-Natal,Student,Bronze,2024-07-09
+C0593,Grace,Brown,Male,Bloemfontein,Free State,Individual,Bronze,2025-09-22
+C0594,Fatima,Mkhize,Male,Durban,KwaZulu-Natal,Family,Platinum,2024-06-14
+C0595,Nandi,Khumalo,Female,Polokwane,Limpopo,Individual,Silver,2024-01-17
+C0596,Grace,Brown,Male,Johannesburg,Gauteng,Business,Silver,2025-08-30
+C0597,Michael,Williams,Female,  Pietermaritzburg  ,KwaZulu-Natal,Family,Gold,2024-12-18
+C0598,Mandla,Naidoo,Female,Durban,KwaZulu-Natal,Individual,Bronze,2025-07-08
+C0599,Chidinma,Mokoena,Male,Johannesburg,Gauteng,Student,Silver,2024-11-24
+C0600,Sipho,Naidoo,Male,Gqeberha,Eastern Cape,Individual,Silver,2024-12-12

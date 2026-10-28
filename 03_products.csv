@@ -1,0 +1,61 @@
+Product_Code,Product_Name,Category,Subcategory,Brand,Supplier,Unit_Cost
+P001,Wireless Mouse,Electronics,Computer Accessories,HomeCare,ABC Distributors,699.95
+P002,USB Keyboard,Electronics,computer accessories,UrbanLife,Metro Supplies,403.41
+P003,Webcam,Electronics,Computer Accessories,DailyChoice,Metro Supplies,774.86
+P004,USB Hub,Electronics,Computer Accessories,HomeCare,SA Retail Supply,632.17
+P005,Laptop Stand,ELECTRONICS,Computer Accessories,HomeCare,SA Retail Supply,98.35
+P006,Phone Charger,Electronics,Mobile Accessories,FreshMart,ABC Distributors,878.43
+P007,Power Bank,Electronics,Mobile Accessories,TechPro,ABC Distributors,688.61
+P008,USB-C Cable,Electronics,Mobile Accessories,DailyChoice,Metro Supplies,710.67
+P009,Phone Case,Electronics,Mobile Accessories,TechPro,SA Retail Supply,128.38
+P010,Wireless Earbuds,Electronics,Mobile Accessories,DailyChoice,SA Retail Supply,413.59
+P011,Rice 5kg,Groceries,Staples,FreshMart,Metro Supplies,343.16
+P012,Maize Meal 5kg,Groceries,Staples,Nova,SA Retail Supply,835.19
+P013,Cooking Oil 2L,Groceries,Staples,UrbanLife,ABC Distributors,584.82
+P014,Sugar 2kg,Groceries,Staples,FoodPlus,Global Traders,743.14
+P015,Flour 2.5kg,Groceries,Staples,SmartLiving,Prime Wholesale,407.42
+P016,Instant Coffee,Groceries,Beverages,FoodPlus,Metro Supplies,216.11
+P017,Tea Bags,Groceries,Beverages,SmartLiving,ABC Distributors,505.81
+P018,Fruit Juice,Groceries,beverages,HomeCare,Global Traders,71.48
+P019,Mineral Water,Groceries,Beverages,HomeCare,Prime Wholesale,747.45
+P020,Soft Drink,Groceries,Beverages,SmartLiving,SA Retail Supply,574.02
+P021,Washing Powder,Household,cleaning,UrbanLife,ABC Distributors,685.91
+P022,Dishwashing Liquid,Household,Cleaning,Nova,SA Retail Supply,328.76
+P023,Bleach,Household,Cleaning,HomeCare,Global Traders,874.07
+P024,Multi-Purpose Cleaner,HOUSEHOLD,Cleaning,HomeCare,SA Retail Supply,805.41
+P025,Fabric Softener,Household,Cleaning,UrbanLife,SA Retail Supply,703.87
+P026,Paper Towels,Household,Kitchen,SmartLiving,SA Retail Supply,187.26
+P027,Food Containers,HOUSEHOLD,kitchen,DailyChoice,ABC Distributors,428.05
+P028,Kitchen Foil,Household,Kitchen,TechPro,Metro Supplies,53.77
+P029,Bin Bags,Household,Kitchen,UrbanLife,ABC Distributors,151.55
+P030,Sponges,Household,Kitchen,DailyChoice,ABC Distributors,619.5
+P031,Bath Soap,Personal Care,Bath & Body,FreshMart,Prime Wholesale,674.11
+P032,Body Lotion,Personal Care,Bath & Body,Nova,Prime Wholesale,871.25
+P033,Shampoo,PERSONAL CARE,Bath & Body,FoodPlus,Prime Wholesale,303.36
+P034,Conditioner,Personal Care,Bath & Body,SmartLiving,Metro Supplies,342.86
+P035,Deodorant,Personal Care,bath & body,UrbanLife,ABC Distributors,430.56
+P036,Toothpaste,PERSONAL CARE,Oral Care,FoodPlus,SA Retail Supply,182.68
+P037,Toothbrush,PERSONAL CARE,Oral Care,DailyChoice,Metro Supplies,129.98
+P038,Mouthwash,Personal Care,Oral Care,Nova,Global Traders,436.0
+P039,Dental Floss,Personal Care,Oral Care,UrbanLife,SA Retail Supply,215.81
+P040,Whitening Strips,Personal Care,Oral Care,DailyChoice,Prime Wholesale,607.79
+P041,Men's T-Shirt,Clothing,Men,TechPro,Metro Supplies,401.88
+P042,Men's Jeans,Clothing,Men,TechPro,Prime Wholesale,751.92
+P043,Men's Hoodie,Clothing,Men,FreshMart,Prime Wholesale,634.73
+P044,Men's Polo Shirt,Clothing,Men,HomeCare,Metro Supplies,291.44
+P045,Men's Socks,Clothing,Men,SmartLiving,Metro Supplies,751.55
+P046,Women's T-Shirt,CLOTHING,Women,Nova,Global Traders,727.22
+P047,Women's Jeans,Clothing,Women,Nova,Metro Supplies,357.92
+P048,Women's Hoodie,Clothing,Women,UrbanLife,Metro Supplies,270.17
+P049,Women's Dress,CLOTHING,Women,DailyChoice,SA Retail Supply,619.01
+P050,Women's Socks,Clothing,Women,UrbanLife,SA Retail Supply,138.68
+P051,Electric Kettle,Small Appliances,Kitchen Appliances,FreshMart,SA Retail Supply,191.92
+P052,Toaster,Small Appliances,Kitchen Appliances,FreshMart,Prime Wholesale,21.52
+P053,Blender,Small Appliances,Kitchen Appliances,DailyChoice,Metro Supplies,711.43
+P054,Microwave Oven,Small Appliances,Kitchen Appliances,Nova,ABC Distributors,603.39
+P055,Coffee Maker,Small Appliances,Kitchen Appliances,TechPro,ABC Distributors,639.07
+P056,Hair Dryer,Small Appliances,Home Appliances,FoodPlus,Metro Supplies,705.95
+P057,Steam Iron,Small Appliances,Home Appliances,FreshMart,SA Retail Supply,421.14
+P058,Desk Fan,Small Appliances,Home Appliances,HomeCare,Global Traders,518.34
+P059,Electric Heater,Small Appliances,Home Appliances,FreshMart,SA Retail Supply,138.72
+P060,Vacuum Cleaner,Small Appliances,Home Appliances,Nova,SA Retail Supply,116.36

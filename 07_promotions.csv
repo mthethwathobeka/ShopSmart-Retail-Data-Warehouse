@@ -1,0 +1,21 @@
+Promotion_ID,Promotion_Name,Promotion_Type,Start_Date,End_Date,Discount_Percentage
+PR001,New Year Savings,Seasonal,2025-01-02,2025-01-15,10
+PR002,Back to School,Seasonal,2025-01-20,2025-02-10,12
+PR003,Valentine Special,Seasonal,2025-02-01,2025-02-16,15
+PR004,Autumn Deals,Seasonal,2025-03-01,2025-03-31,8
+PR005,Easter Sale,Seasonal,2025-04-10,2025-04-21,18
+PR006,Winter Warmers,Seasonal,2025-05-15,2025-06-30,12
+PR007,Mid-Year Sale,Clearance,2025-06-15,2025-07-15,20
+PR008,Spring Savings,Seasonal,2025-08-15,2025-09-15,10
+PR009,Heritage Month,Campaign,2025-09-01,2025-09-30,15
+PR010,Black Friday,Campaign,2025-11-20,2025-11-30,25
+PR011,Cyber Monday,Campaign,2025-12-01,2025-12-03,20
+PR012,Festive Sale,Seasonal,2025-12-05,2025-12-31,15
+PR013,January Clearance,Clearance,2025-01-10,2025-01-31,22
+PR014,Customer Appreciation,Loyalty,2025-05-01,2025-05-14,10
+PR015,Weekend Flash Sale,Flash,2025-07-18,2025-07-20,15
+PR016,Online Exclusive,Online,2025-03-15,2025-04-15,17
+PR017,Summer Essentials,Seasonal,2025-10-01,2025-10-31,10
+PR018,Holiday Countdown,Campaign,2025-12-15,2025-12-24,18
+PR019,Gold Member Bonus,Loyalty,2025-08-01,2025-08-31,7
+PR020,Supplier Promotion,Supplier,2025-09-15,2025-10-15,13
